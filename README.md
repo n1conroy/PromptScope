@@ -2,7 +2,7 @@
 
 **Visualize, structure, and export LLM insights for research and instruction.**
 
-EchoPrompt is a practical toolkit designed for librarians, educators, and digital researchers exploring the capabilities of large language models (LLMs). It combines prompt analysis, natural language enrichment, and structured metadata output with integrations into Google Cloud services — supporting instructional use, research data management, and reproducibility.
+EchoPrompt is a practical toolkit designed for librarians, educators, and digital researchers exploring the capabilities of large language models (LLMs). It combines prompt analysis, natural language enrichment, and structured metadata output with integrations into Cloud services. EchoPrompt supports instructional use, research data management, and reproducibility.
 
 ---
 
