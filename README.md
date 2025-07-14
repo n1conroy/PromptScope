@@ -31,7 +31,7 @@ EchoPrompt is a practical toolkit designed for librarians, educators, and digita
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/yourname/echoprompt
+git clone https://github.com/n1conroy/echoprompt
 cd echoprompt
 python3 -m venv venv
 source venv/bin/activate
